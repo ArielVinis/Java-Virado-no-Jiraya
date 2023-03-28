@@ -7,7 +7,7 @@ public class ClassTeste {
         
         System.out.println("Meu nome é: " + nome);
         System.out.println("Minha idade é: " + idade);
-        System.out.println("Eu peso: " + peso);
+        System.out.println("Eu peso: " + peso); 
         
         System.out.println("Hello, World!");
 
