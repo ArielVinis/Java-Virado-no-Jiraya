@@ -12,8 +12,7 @@ public class ClassTeste {
         System.out.println("Hello, World!");
 
         System.out.println("Teste realizado");
-
-
+        
 
 
     }
