@@ -7,17 +7,17 @@ public class CondicaoTernaria {
 
 // Para tranformar varias linhas em comentario, "Ctrl + ;"
     //Sintaxe NORMAL (Ambas estão certas)
-        // String resultado = "";
-        //     if(a==b)
-        //         resultado = "verdadeiro";
-        //     else
-        //         resultado = "falso";
+        String resultado = "";
+            if(a==b)
+                resultado = "verdadeiro";
+            else
+                resultado = "falso";
 
-        //     System.out.println(resultado);
+            System.out.println(resultado);
 
     //Sintaxe TERNARIA
-        String resultado = a==b ?"verdadeiro" : "falso";
+        resultado = a==b ?"verdadeiro" : "falso";
 
-            System.out.println(resultado); 
+            System.out.println(resultado);
     }
 }
