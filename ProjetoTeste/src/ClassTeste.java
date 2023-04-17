@@ -10,6 +10,7 @@ public class ClassTeste {
             System.out.println("Eu peso: " + peso); 
         
             System.out.println("Teste realizado");
-        
+            System.out.println("Hello World")
+
     }
 }
