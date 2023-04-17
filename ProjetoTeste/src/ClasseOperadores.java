@@ -19,7 +19,7 @@ public class ClasseOperadores {
         System.out.println("Sou do sexo: " + sexo);
         System.out.println("Doador de orgão? " + doadorOrgao);
         System.out.println("Minha data de nascimento é: " + dataNascimento);
-        System.out.println(date);
+        System.out.println(date); 
 
     }
 }
