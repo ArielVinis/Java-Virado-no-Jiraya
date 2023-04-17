@@ -1,5 +1,3 @@
-import java.util.Date;
-
 public class ClasseOperadores {
     public static void main(String[] Args) {
         String nome = "Ariel";
@@ -10,4 +8,4 @@ public class ClasseOperadores {
         Date dataNascimento = new Date();
 
     }
-        }
+}
