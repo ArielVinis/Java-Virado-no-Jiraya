@@ -1,3 +1,4 @@
+package Operadores;
 public class ClassTeste {
     public static void main(String[] args) {
         
