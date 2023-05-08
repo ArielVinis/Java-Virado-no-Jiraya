@@ -1,3 +1,5 @@
+/* PARA DEIXAR COMENTADO, PRESSIONE "Alt + Shift + A" */
+
 package Orientacao_a_objetos;
 
 public class inicio {
