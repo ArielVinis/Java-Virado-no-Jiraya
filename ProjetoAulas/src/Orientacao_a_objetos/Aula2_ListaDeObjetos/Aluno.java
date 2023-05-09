@@ -13,6 +13,10 @@ package Orientacao_a_objetos.Aula2_ListaDeObjetos;
         }
         
 
+        public Aluno() {
+        }
+
+
         public String getNome() {
             return Nome;
         }
@@ -35,7 +39,8 @@ package Orientacao_a_objetos.Aula2_ListaDeObjetos;
         public String getDados(){
             return  "Nome: " + this.Nome +
                     "\n Mat.: " + this.Matricula +
-                    "\n Tel.: " + this.Telefone;
+                    "\n Tel.: " + this.Telefone +
+                    "\n";
         }
         
     }
