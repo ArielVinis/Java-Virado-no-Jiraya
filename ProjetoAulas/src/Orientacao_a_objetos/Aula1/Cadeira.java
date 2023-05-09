@@ -1,6 +1,6 @@
 /* PARA DEIXAR COMENTADO, PRESSIONE "Alt + Shift + A" */
 
-package Orientacao_a_objetos;
+package Orientacao_a_objetos.Aula1;
 
 public class Cadeira {
     private double altura;
