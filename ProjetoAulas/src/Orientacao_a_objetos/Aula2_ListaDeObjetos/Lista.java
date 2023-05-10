@@ -27,7 +27,13 @@ public class Lista {
         ListaAlunos.add(new Aluno("Gui","004", "98 9 9999-9999", "Palhoça"));
         
         for(int i=0; i<ListaAlunos.size();i++){
-            System.out.println(ListaAlunos.get(i).getDados());
+/*          Forma por extenso de pegar os alunos   
+            System.out.println(ListaAlunos.get(i).getDados()); */
+
+            //Forma Limpa e Simplificada
+            Aluno temp = ListaAlunos.get(i);
+
+            System.out.println(temp.getDados());
         } 
 
     }
