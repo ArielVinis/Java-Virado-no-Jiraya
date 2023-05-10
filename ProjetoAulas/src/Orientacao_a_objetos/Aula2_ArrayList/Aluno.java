@@ -1,4 +1,4 @@
-package Orientacao_a_objetos.Aula2_ListaDeObjetos;
+package Orientacao_a_objetos.Aula2_ArrayList;
 
     public class Aluno{
         private String Nome;
