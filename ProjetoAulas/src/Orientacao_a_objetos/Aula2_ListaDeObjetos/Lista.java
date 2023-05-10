@@ -28,7 +28,7 @@ public class Lista {
         
         for(int i=0; i<ListaAlunos.size();i++){
             System.out.println(ListaAlunos.get(i).getDados());
-        }
+        } 
 
     }
 }
