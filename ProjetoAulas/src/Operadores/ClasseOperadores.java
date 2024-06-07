@@ -3,7 +3,7 @@ import java.util.Date;
 
 public class ClasseOperadores {
     public static void main(String[] Args) {
-        String puta = "Ariel";
+        String nome = "Ariel";
         int idade = 27;
         double peso = 68.5;
         char sexo = 'M';
@@ -11,10 +11,10 @@ public class ClasseOperadores {
         Date dataNascimento = new Date(1997/11/27);
 
         long millis=System.currentTimeMillis();  
-        java.sql.Date date=new java.sql.Date(millis);  
+        java.sql.Date date = new java.sql.Date(millis);
 
 
-        System.out.println("Meu nome é: " + puta);
+        System.out.println("Meu nome é: " + nome);
         System.out.println("Tenho " + idade + " anos de idade.");
         System.out.println("No momento estou pesando: " + peso);
         System.out.println("Sou do sexo: " + sexo);
