@@ -21,6 +21,14 @@ public class OperadoresLogicos {
 
             System.out.println("Fim.");
 
+        double valorTotalContaCorrente = 200;
+        double valorTotalContaPoupança = 10000;
+        float valorPlaystation = 5000F;
+
+        boolean isPlaystationCompravel = valorTotalContaCorrente > valorPlaystation || valorTotalContaPoupança > valorPlaystation;
+
+        System.out.println("isPlaystationCompravel " +isPlaystationCompravel);
+
     }
     
 }
