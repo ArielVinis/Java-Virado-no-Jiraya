@@ -5,7 +5,7 @@ public class OperadoresRelacionais {
         // != DIFERENTE DA OUTRA 
         // >  MAIOR QUE 
         // >= MAIOR OU IGUAL 
-        // <  MENOS QUE 
+        // <  MENOR QUE
         // <= MENOR OU IGUAL 
 
         String nomeUm = "ARIEL"; 
