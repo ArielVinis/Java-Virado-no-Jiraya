@@ -1,6 +1,6 @@
 package Estruturas;
 
-public class Condicionais02_Ternario {
+public class Condicionais03_Ternario {
     public static void main(String[] args) {
 
         double salario = 3000;
