@@ -11,7 +11,7 @@ Convenções de variáveis, declaração e tamanho em memória, casting, Strings
 Métodos, sobre classes, classe de operadores, aritméticos, lógicos, relacionais, unário, and, or, atribuição.
 
 ### Estruturas Condicionais:
-if, else if, operador ternário, tabela verdade.
+if, else if, operador ternário, tabela verdade, switch case.
 
 ### Orientação a Objetos:
 Lista, arrays, comentários, erros, TryCatch.
