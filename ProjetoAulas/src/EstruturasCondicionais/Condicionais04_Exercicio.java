@@ -1,4 +1,4 @@
-package Estruturas;
+package EstruturasCondicionais;
 
 // I WANT TO KNOW HOW MUCH I HAE TO PAY IN THE NETHERLANDS 2020 BASED ON MY ANNUAL SALARY
 public class Condicionais04_Exercicio {
