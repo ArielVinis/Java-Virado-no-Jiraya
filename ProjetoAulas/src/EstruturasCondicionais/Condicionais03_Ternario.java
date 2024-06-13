@@ -1,4 +1,4 @@
-package Estruturas;
+package EstruturasCondicionais;
 
 public class Condicionais03_Ternario {
     public static void main(String[] args) {
