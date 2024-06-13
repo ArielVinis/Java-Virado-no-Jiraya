@@ -1,4 +1,4 @@
-package Estruturas;
+package EstruturasCondicionais;
 
 public class Condicionais02_else_if {
     public static void main(String[] args) {
