@@ -10,7 +10,7 @@ Convenções de variáveis, declaração e tamanho em memória, casting, Strings
 ### Operadores:
 Métodos, sobre classes, classe de operadores, aritméticos, lógicos, relacionais, unário, and, or, atribuição.
 
-### Estruturas Condicionais:
+### EstruturasCondicionais Condicionais:
 if, else if, operador ternário, tabela verdade, switch case.
 
 ### Orientação a Objetos:
