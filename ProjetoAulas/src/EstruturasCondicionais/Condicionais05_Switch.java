@@ -1,4 +1,4 @@
-package Estruturas;
+package EstruturasCondicionais;
 
 public class Condicionais05_Switch {
     public static void main(String[] args) {
