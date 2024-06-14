@@ -14,7 +14,7 @@ Métodos, sobre classes, classe de operadores, aritméticos, lógicos, relaciona
 if, else if, operador ternário, tabela verdade, switch case.
 
 ### Estruturas de Repetição:
-Laços de repetição while, do while, for.
+Laços de repetição while, do while, for, break.
 
 ### Orientação a Objetos:
 Lista, arrays, comentários, erros, TryCatch.
