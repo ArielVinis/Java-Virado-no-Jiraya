@@ -17,7 +17,7 @@ if, else if, operador ternário, tabela verdade, switch case.
 Laços de repetição while, do while, for, break, continue.
 
 ### Arrays
-Reference, object, padrões, for each.
+Reference, object, padrões, foreach.
 
 ### Orientação a Objetos:
 Lista, arrays, comentários, erros, TryCatch.
