@@ -20,4 +20,3 @@ Laços de repetição while, do while, for, break, continue.
 Reference, object, padrões, foreach, Arrays Multidimensionais.
 
 ### Orientação a Objetos:
-Lista, arrays, comentários, erros, TryCatch.
