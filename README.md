@@ -2,7 +2,8 @@
 
 ## 📚 Resumo dos Conteúdos Estudados
 
-Este projeto contém os estudos realizados durante o curso "Maratona Java Virado no Jiraya". Aqui está um registro detalhado de todos os tópicos abordados para consulta futura.
+Este projeto contém os estudos realizados durante o curso "Maratona Java Virado no Jiraya". 
+Deixo aqui um registro detalhado de todos os tópicos abordados para uma consulta futura.
 
 ---
 
