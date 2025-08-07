@@ -8,8 +8,8 @@ public class ArraysMultidimensionais02 {
         arrayInt[1] = new int[]{1, 2, 3};
         arrayInt[2] = new int[]{1, 2, 3, 4, 5, 6};
 
-        int[][] arrayInt1 = new int[3][];
-        int[][] arrayInt2 = {{0,0}, {1,2,3}, {1,2,3,4,5,6}};
+        // int[][] arrayInt1 = new int[3][];
+        // int[][] arrayInt2 = {{0,0}, {1,2,3}, {1,2,3,4,5,6}};
 
         for (int[] arrayBase : arrayInt) {
             System.out.println("\n-------");
